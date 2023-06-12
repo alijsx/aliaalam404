@@ -1,4 +1,4 @@
-![logo](https://github.com/aliaalam404/aliaalamdev/blob/main/Webdevelopment%20(1).png)
+![logo](https://github.com/aliaalam404/aliaalam404/blob/aliaalam404/aliaalamdev/Webdevelopment%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Ali Aalam</h1>
 <h3 align="center">A MERN stack developer passionate about building scalable web applications.</h3>
