@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaalamdev&label=Profile%20views&color=0e75b6&style=flat" alt="aliaalamdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aliaalam404" target="blank"><img src="https://img.shields.io/twitter/follow/aliaalam_dev?logo=twitter&style=for-the-badge" alt="aliaalam_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aliaalam404" target="blank"><img src="https://img.shields.io/twitter/follow/aliaalam_dev?logo=twitter&style=for-the-badge" alt="aliaalam404" /></a> </p>
 
 - 🔭 I’m currently working on [Updated To Pro](https://updatedtopro.web.app/)
 
