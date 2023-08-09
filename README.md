@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aliaalam.surge.sh/](https://aliaalam.surge.sh/)
 
-- 📝 I regularly write articles on [https://aliaalam.surge.sh/](https://aliaalam.surge.sh/)
+- 📝 I regularly write articles on [https://aliaalam.surge.sh/](https://aliaalam.xyz)
 
 - 💬 Ask me about **react.js**
 
