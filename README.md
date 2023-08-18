@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aliaalam404" target="blank"><img src="https://img.shields.io/twitter/follow/aliaalam_404?logo=twitter&style=for-the-badge" alt="aliaalam404" /></a> </p>
 
-- 🔭 I’m currently working on [Updated To Pro](https://updatedtopro.web.app/)
+
 
 - 🌱 I’m currently learning **Next.js, Prisma**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aliaalam.me@gmail.com**
 
-- 📄 Know about my experiences [https://aliaalam.surge.sh/](https://aliaalam.surge.sh/)
+- 📄 Know about my experiences [aliaalam.com](https://aliaalam.xyz/)
 
 - ⚡ Fun fact **I Think i am funny**
 
