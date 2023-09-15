@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Ali Aalam</h1>
-<h3 align="center">A MERN stack developer passionate about building scalable web applications.</h3>
+<h3 align="center">React js Developer @meta certified | Front-End Developer | by @coursera
+ passionate about building scalable web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaalamdev&label=Profile%20views&color=0e75b6&style=flat" alt="aliaalamdev" /> </p>
 
