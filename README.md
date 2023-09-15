@@ -1,4 +1,5 @@
-![logo](https://github.com/aliaalam404/aliaalam404/blob/ba5cad3bd3de4276c38e116e8359f978c9336b8c/1.png)
+![logo](https://github.com/aliaalam404/aliaalam404/blob/aliaalam404/aliaalamdev/Teal%20Gradient%20Fade%20Feature%20Personality%20Instagram%20Post.png?raw=true)
+
 
 
 <h1 align="center">Hi 👋, I'm Ali Aalam</h1>
