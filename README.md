@@ -13,15 +13,15 @@
 
 - 🌱 I’m currently learning **Next.js, Prisma**
 
-- 👨‍💻 All of my projects are available at [https://aliaalam.surge.sh/](https://aliaalam.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://aliaalam.xyz/](https://aliaalam.xyz/)
 
-- 📝 I regularly write articles on [https://aliaalam.surge.sh/](https://aliaalam.xyz)
+- 📝 I regularly write articles on [https://aliaalam.xyz/](https://aliaalam.xyz)
 
 - 💬 Ask me about **react.js**
 
 - 📫 How to reach me **aliaalam.me@gmail.com**
 
-- 📄 Know about my experiences [aliaalam.com](https://aliaalam.xyz/)
+- 📄 Know about my experiences [aliaalam.xyz](https://aliaalam.xyz/)
 
 - ⚡ Fun fact **I Think i am funny**
 
