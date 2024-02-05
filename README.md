@@ -41,9 +41,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aliaalam404"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliaalam404" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliaalam404&show_icons=true&locale=en&layout=compact" alt="aliaalam404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliaalam404&show_icons=true&locale=en" alt="aliaalam404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliaalam404&" alt="aliaalam404" /></p>
 
