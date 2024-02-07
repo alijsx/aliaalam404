@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ali Aalam</h1>
-<h3 align="center">A passionate frontend deve⚛️ React Developer | Frontend Innovator 🚀 | Crafting Future-Ready Digital Experiences with Tailwind CSS ✨loper from India</h3>
+<h3 align="center">A passionate frontend developer ⚛️ React Developer | Frontend Innovator 🚀 | Crafting Future-Ready Digital Experiences with Tailwind CSS ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliaalam404&label=Profile%20views&color=0e75b6&style=flat" alt="aliaalam404" /> </p>
 
